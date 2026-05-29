@@ -1,56 +1,113 @@
 <div align="center">
-  <img src="https://sjc.microlink.io/E0FuIPNO3Q-MABw8rPnThO702nTkAAEjt8U0FZijojdxN2OMwls6UpKK0Gy2Ha8LLjwQfDHjhqUWDgWqtzHnWQ.jpeg" alt="Banner" width="100%" height="auto"/>
-  <h1>Hi 👋, I'm Muhammad Mujeeb Ur Rehman</h1>
-  <h3>A passionate Full Stack Developer from Pakistan</h3>
-</div>
 
-## 💫 About Me
-- 🔭 I'm currently working as an **Associate Software Engineer at Foresight Technologies**
-- 🌱 I'm currently learning **DevOps and System Administration**
-- 💬 Ask me about **MERN Stack, Java, Docker**
-- 📫 How to reach me: **mrehman0501305@gmail.com**
-- 🎓 Pursuing BSCS at SZABIST Karachi
+# Muhammad Mujeeb ur Rehman
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujeeb-tech)
+**Software & Systems Engineer · IAM Specialist · CS Gold Medalist**
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-mrehman0501305%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:mrehman0501305@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mujeeb--tech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujeeb-tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mujeeb--portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://mujeeb-portfolio-psi.vercel.app/)
 
-## 🚀 Featured Projects
-
-### License Manager
-- A comprehensive license management system built with MERN stack
-- Features: Mail Reminders, User Authorizations, Automated status updates
-- Containerized with Docker and Docker Compose
-- Tech: Redux Toolkit, Chakra UI, React Toastify, Full Calendar
-
-### Attendance Tracker
-- Faculty attendance tracking web application
-- Built with MERN stack and Redux Toolkit
-- Features monthly calendar view and weekly hours calculation
-
-### Java RestfulWebService
-- Custom Java SDK implementation in RESTful web service
-- Technologies: Java, Spring Boot, Apache Tomcat
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb2003&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb2003&theme=react&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb2003&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
+
+## About
+
+I'm a **Software & Systems Engineer** and **Assistant Manager** at Foresight Technologies, leading Tier-3 incident response for enterprise MFA services at 99.99% uptime. My work sits at the intersection of security engineering, system reliability, and applied cryptography.
+
+Currently deepening expertise in **cloud security infrastructure** and working toward graduate research in resilient computing and automated vulnerability patching.
+
+```text
+🔐  IAM & MFA Architecture      ████████████████████  Production
+☁️  Cloud Security & Crypto      ███████████████░░░░░  Research
+⚙️  DevOps & Infrastructure      ████████████░░░░░░░░  Growing
+🎓  Graduate Research            ██████░░░░░░░░░░░░░░  Incoming
+```
+
+---
+
+## Tech Stack
+
+**Core Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Infrastructure & Security**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🔐 Three-Layer Hybrid Encryption for Cloud Computing
+> *Research · Applied Cryptography · Cloud Security*
+
+A multi-tiered cryptographic architecture for securing distributed cloud data — combining Genetic Encryption (DNA mapping + XOR/XNOR diffusion), Homomorphic Encryption via Microsoft SEAL (computation over ciphertext), and Adaptive Key Management with automated rotation and time-limited access tokens.
+
+### 🧾 DigiInvoice — FBR Tax-Compliance Platform
+> *Enterprise Compliance · Secure API Integration · Node.js + MySQL*
+
+Tax-compliant invoicing system with direct FBR API integration, JWT authentication, RBAC, and multi-rate tax calculation (Sales Tax, Extra Tax, FED). Built for Pakistan's digital invoice mandate.
+
+### 🌿 EcoTracker — AI Predictive Governance Platform
+> *Google Gemini AI · React 19 · PostgreSQL · Winner, Zab-E-Fest Hackathon 2025*
+
+Forecasts civic complaint hotspots and resource allocation needs across Karachi using Gemini AI. Multi-role auth via Clerk. Built in 24 hours during a competitive sprint.
+
+### 🪪 License Manager SaaS
+> *MERN Stack · Docker · Redux Toolkit*
+
+Internal SaaS tool that automates licence tracking, expiry alerts, and compliance auditing. Containerised with Docker Compose — reduced audit prep time by 50%.
+
+### 🔧 Keycloakify Open-Source Bug Fix
+> *IAM · Open Source · Root Cause Analysis*
+
+Diagnosed and resolved a critical navigation failure in Keycloakify's production admin themes — a namespace extraction bug intercepting `window.history.pushState`. Fix enables correct i18n loading and React Router hash extraction; contribution accepted upstream.
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mujeeb2003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb2003&theme=transparent&hide_border=true&layout=compact&title_color=0A66C2&text_color=555555" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb2003&theme=transparent&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=ED8B00&currStreakLabel=0A66C2" />
+</div>
+
+---
+
+## Certifications
+
+- **GitHub Foundations** — GitHub
+- **Jenkins** — KodeKloud
+
+---
+
+<div align="center">
+  <sub>Open to research collaborations in cloud security, IAM, and cryptographic systems.</sub>
 </div>
